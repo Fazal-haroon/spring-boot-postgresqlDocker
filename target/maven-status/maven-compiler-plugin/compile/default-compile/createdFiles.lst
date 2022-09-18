@@ -1,7 +1,0 @@
-com\example\start\api\PersonResourceOrController.class
-com\example\start\dao\FakePersonDataAccessService.class
-com\example\start\dao\PersonDataAccessService.class
-com\example\start\StartApplication.class
-com\example\start\dao\PersonDao.class
-com\example\start\service\PersonService.class
-com\example\start\model\Person.class
